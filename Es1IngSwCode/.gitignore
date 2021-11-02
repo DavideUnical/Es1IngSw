@@ -1,1 +1,8 @@
-/target/
+# Eclipse project
+.project
+.classpath
+
+# Eclipse folders
+.settings/*
+target/*
+bin/*
