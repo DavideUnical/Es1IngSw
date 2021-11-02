@@ -3,7 +3,6 @@
 .classpath
 
 # Eclipse folders
-.settings/*
-target/*
-bin/*
+/.settings/
+/bin/
 /target/
