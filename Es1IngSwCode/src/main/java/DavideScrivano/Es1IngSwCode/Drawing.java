@@ -16,7 +16,7 @@ public class Drawing extends JPanel {
 		if (shape != null) {
 			shape.draw(g);
 			g.setColor(Color.BLACK);
-			g.drawString(String.valueOf(shape.getNoOfShapes()), 2, 10);
+			g.drawString(String.valueOf(shape.getNoOfShapes()), 960, 10);
 		}
 	}
 	
